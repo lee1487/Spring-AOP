@@ -1,0 +1,1 @@
+[2021-03-10 17:48:19:8144299][http-nio-8080-exec-1] WARN  com.gtp.person.config.BindingAdvice - com.gtp.person.web.UserController.save() => 필드 : username, 메세지: 유저네임을 입력하세요.
